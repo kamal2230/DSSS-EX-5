@@ -16,6 +16,7 @@ def main(speed=0, bg_color="grey"):
     """TODO: define different colors here"""
 
 
+
     for _ in range(10):
         # define some params
         size = 18
