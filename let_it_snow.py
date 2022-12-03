@@ -14,6 +14,7 @@ def main(speed=0, bg_color="grey"):
   
  
     """TODO: define different colors here"""
+    #kamal
 
 
 
